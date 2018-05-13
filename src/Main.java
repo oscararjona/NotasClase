@@ -1,4 +1,4 @@
-package NotasClase;
+package notas;
 
 public class Main {
 
